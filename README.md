@@ -1,14 +1,23 @@
 # Homework-Challenge-01
 # <Your-Project-Title>
 
-## Description
+## Project Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+### What was your motivation?
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+My motivation for building this project was to create a visually and informative website for Horiseon, a digital marketing agency.
+
+### Why did you build this project?
+
+I built this project to help Horiseon improve their online presence and attract potential customers. By creating an engaging website.
+
+### What problem does it solve?
+
+This project solves the problem of effectively communicating Horiseon's services and benefits to their target audience. By providing clear information about search engine optimization, online reputation management, and social media marketing.
+
+### What did you learn?
+
+Through the development of this project, we learned how to structure and layout a webpage using HTML. We gained experience in using semantic HTML elements to improve accessibility.
 
 ## Table of Contents (Optional)
 
@@ -21,7 +30,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 <a href= "https://yusufdaza.github.io/Homework-Challenge-01-Code-Refactor/"> live link </a>
@@ -31,7 +40,9 @@ Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
-![alt text](assets/images/horiseon.png)
+![alt text](assets/images/horiseon1.png)
+![alt text](assets/images/horiseon2.png)
+![alt text](assets/images/horiseon3.png)
     ```
 
 ## Credits
